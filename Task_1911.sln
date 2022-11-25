@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1911", "Task_1911\Task_1911.csproj", "{16A77196-BED3-4CE2-94DA-C5B61551B079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тумаков", "Тумаков\Тумаков.csproj", "{6EEF09A6-A93F-46EB-BB92-D996BBC3F8D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A77196-BED3-4CE2-94DA-C5B61551B079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A77196-BED3-4CE2-94DA-C5B61551B079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A77196-BED3-4CE2-94DA-C5B61551B079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A77196-BED3-4CE2-94DA-C5B61551B079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EEF09A6-A93F-46EB-BB92-D996BBC3F8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEF09A6-A93F-46EB-BB92-D996BBC3F8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEF09A6-A93F-46EB-BB92-D996BBC3F8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEF09A6-A93F-46EB-BB92-D996BBC3F8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA318356-0E22-4A04-8440-95F3632A8871}
+	EndGlobalSection
+EndGlobal
